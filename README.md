@@ -18,6 +18,6 @@
 ![Architacture_TP2_First-Micro-service-REST](https://user-images.githubusercontent.com/103313351/215144674-0233bdee-f07c-4ac4-be7e-c14cb4759d9e.jpg)
 
 
-# Demo ERxecution
+# Demo Execution
 
 ![Screen_First-Micro-service-REST-Connector-main-master](https://user-images.githubusercontent.com/103313351/215144183-7b1fe24a-e20d-4f53-a14e-6509197fe320.PNG)

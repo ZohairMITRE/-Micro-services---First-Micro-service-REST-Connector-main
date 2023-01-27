@@ -13,7 +13,7 @@
 9. Créer les DTOs et Mappers
 10. Créer la couche Service (métier) et du micro service
 
-# Architacture
+# Architecture
 
 ![Architacture_TP2_First-Micro-service-REST](https://user-images.githubusercontent.com/103313351/215144674-0233bdee-f07c-4ac4-be7e-c14cb4759d9e.jpg)
 
